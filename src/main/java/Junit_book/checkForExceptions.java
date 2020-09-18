@@ -11,6 +11,6 @@ public class checkForExceptions {
 
     }
 
-//    @Rule
+ @Rule
 
 }
